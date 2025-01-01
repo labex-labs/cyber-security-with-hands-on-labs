@@ -1,6 +1,6 @@
-# Introduction to Cybersecurity with Hands-On Labs
+# Cybersecurity with Hands-on Labs
 
-[![Introduction to Cybersecurity with Hands-On Labs](https://cover-creator.appbot.io/cysec-practice-labs.png)](https://labex.io/courses/cyber-security-with-hands-on-labs)
+[![Cybersecurity with Hands-on Labs](https://cover-creator.appbot.io/cyber-security-with-hands-on-labs.png)](https://labex.io/courses/cyber-security-with-hands-on-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/cyber-security-with-hands-on-labs)
 
